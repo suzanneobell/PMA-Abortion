@@ -69,6 +69,7 @@ numlabel, add
 *					Updated source provider training variable to exclude fieldworkers; put
 *					fieldworkers in "other"; created friend1 variables to generate friend1
 *					risk/untrained variables
+*				Test
 *					
 *******************************************************************************
 
